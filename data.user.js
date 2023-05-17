@@ -220,7 +220,7 @@
                 dialogVisible: false,
                 fullscreen: false,
                 form: {
-                    coSegCode: '',
+                    coSegCode: '1',
                     coSegName: '',
                     count: '0',
                     synDocumentNumCode: '',
